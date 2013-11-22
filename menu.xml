@@ -169,6 +169,11 @@
 			</menu>
 		</menu>
 		<menu id="multimedia" label="Multimedia">
+			<item label="Spotify">
+				<action name="Execute">
+					<command>spotify</command>
+				</action>
+			</item>
 			<item label="SMPlayer">
 				<action name="Execute">
 					<command>smplayer</command>
