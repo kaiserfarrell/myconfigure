@@ -1,4 +1,4 @@
 myconfigure
 ===========
 
-just my setting stuff for conky, tint and other
+This is my private setting for my debian whezzy stuff for conky, tint and other
